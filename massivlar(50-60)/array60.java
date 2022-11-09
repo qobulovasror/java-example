@@ -16,9 +16,9 @@ public class array60{
                     ++max1;
             }
             if(max1==1)
-                System.out.println(A[i]);
+                printf(A[i]+" ");
         }
-
+        printf("\n");
         for(int i=0;i<n;i++){
             printf(A[i]+" ");
         }
